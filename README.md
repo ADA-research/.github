@@ -1,0 +1,2 @@
+# .github
+Group information repository
