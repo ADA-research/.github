@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-The ADA research group is an international collaboration of researchers, mainly based at Leiden University, the Netherlands and the RWTH Aacehn, Germany.
+The ADA research group is an international collaboration of researchers, mainly based at Leiden University, the Netherlands and the RWTH Aachen, Germany.
